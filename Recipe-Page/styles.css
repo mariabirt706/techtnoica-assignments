@@ -7,3 +7,6 @@ body {
 h1 {
 font-family: "Times New Roman", serif;
 }
+.description {
+  width: 600px;  
+}
