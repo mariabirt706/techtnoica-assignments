@@ -1,0 +1,23 @@
+p {
+    color: blue;
+}
+body {
+    background-color: #F7F7F7;
+    margin-left: 20px;
+}
+h1 {
+font-family: "Times New Roman", serif;
+}
+.description {
+  width: 600px;  
+}
+.left {
+    width: 600px;
+    float: left;
+    margin-top: 24px
+}
+.right {
+    width: 600px;
+    float: left;
+    margin-left: 30px;
+}
